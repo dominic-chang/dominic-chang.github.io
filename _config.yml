@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+<<<<<<< HEAD
 locale: 'en-US'
 title: 'Dominic Chang Portfolio'
 title_separator: '-'
@@ -20,6 +21,22 @@ words_per_minute: 160
 future: true
 read_more: 'disabled' # if enabled, adds "Read more" links to excerpts
 talkmap_link: false #change to true to add link to talkmap on talks page
+=======
+locale                   : "en-US"
+title                    : "Dominic Chang"
+title_separator          : "-"
+name                     : &name "Dominic Chang"
+description              : &description "My personal Portfolio"
+url                      : https://dchang10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "dchang10.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+>>>>>>> a9b5c1016ea8080848a42ea37a1dd7bb7d8f4b7a
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,7 +74,11 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
+<<<<<<< HEAD
   username: &twitter
+=======
+  username               : domzchang
+>>>>>>> a9b5c1016ea8080848a42ea37a1dd7bb7d8f4b7a
 facebook:
   username:
   app_id:
@@ -78,6 +99,7 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name: 'Dominic O Chang'
   avatar: 'profile.png'
   bio: 'Physics Graduate Student at Harvard University'
@@ -113,6 +135,44 @@ author:
   xing:
   youtube:
   wikipedia:
+=======
+  name             : "Dominic O Chang"
+  avatar           : "profile.png"
+  bio              : "Jamaican Born Physics graduate with interests in Blackholes"
+  location         : "Cambridge, MA"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "dchang10"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "domzchang"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+>>>>>>> a9b5c1016ea8080848a42ea37a1dd7bb7d8f4b7a
 
 # Reading Files
 include:
