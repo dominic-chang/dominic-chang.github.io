@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+Astrophysics, radio astronomy, blackhole phenomenology, quantum gravity, very long baseline Interferometry
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Worcester Polytechnic Institute, 2018
+* Ph.D in Physics, Harvard university, Present
 
-Work experience
+Selected Honors and Awards
 ======
-* Summer 2015: Research Assistant
+* Sigma Pi Sigma (\Sigma)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
