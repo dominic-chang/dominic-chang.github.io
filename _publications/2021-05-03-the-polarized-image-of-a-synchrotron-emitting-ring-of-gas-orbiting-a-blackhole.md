@@ -2,7 +2,7 @@
 title: "The Polarized Imaged of a Synchrotron-emitting Ring of Gas Orbiting a Blackhole"
 collection: publications
 permalink: /publication/10.3847/1538-4357/abf117
-excerpt: 'With suitably chosen parameters, our simple model can reproduce the EVPA pattern and relative polarized intensity in Event Horizon Telescope images of M87*. '
+excerpt: 'Synchrotron radiation from hot gas near a black hole results in a polarized image. The image polarization is determined by effects including the orientation of the magnetic field in the emitting...'
 date: 2021-05-03
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/abf117'
