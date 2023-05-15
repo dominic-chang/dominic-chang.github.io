@@ -1,0 +1,13 @@
+---
+title: "Comrade.jl Tutorial"
+collection: talks
+type: Talk
+permalink: /talks/2023-04-04
+date: 2023-04-04
+venue: "The Blackhole Initiative"
+location: "Cambridge Massachusetts"
+---
+
+This was a tutorial to introduce the local EHT group to Julia and modelling in Comrade.jl. Comrade.jl is a composable modelling framework for VLBI observations.
+
+![Repository for Tutorial](https://github.com/dchang10/ComradeTutorial)
