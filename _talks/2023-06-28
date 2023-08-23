@@ -1,0 +1,17 @@
+---
+title: "Semi-Analytic Modeling with Jube.jl"
+collection: talks
+type: Talk
+permalink: /talks/2023-06-28
+date: 2023-06-28
+venue: "Taichung, Taiwan"
+location: "National Museum of Natural Science, Taichung, Taiwan"
+---
+
+The Gravitational physics working group has been recenlty pushing for the evelopment of simple models that can be used to describe EHT observations.
+This talk details how simple and efficient models can be quickly assembled from the existing tools in a module that I've beend developing. 
+Here's an example of 2 models that show how aparent dynamics can change due to time delay of light traveling from a hotspot to an observer.
+
+![Hot Spot](/images/hotspot.gif)
+
+![Hot Spot](/images/hotspot-slowlight.gif)
