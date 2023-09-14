@@ -1,6 +1,5 @@
 _site/
-
 *.swp
 */.DS_Store
 .vscode
-.Gemfile.lock
+Gemfile.lock
