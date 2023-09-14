@@ -7,8 +7,8 @@ main:
     url: /publications/
 
   - title: "Blog Posts"
-    url:  https://medium.com/@reactivephysics
+    url:  https://medium.com/@domchang
 
-  - title: "Physics Apps"
-    url: /physicsapps/
+  - title: "Projects"
+    url: /projects/
 

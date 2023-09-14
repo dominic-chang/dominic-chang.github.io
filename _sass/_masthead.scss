@@ -2,7 +2,9 @@
    MASTHEAD
    ========================================================================== */
 
+
 .masthead {
+  background-color: $darker-gray;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -50,4 +52,8 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+#site-nav {
+  background-color: $darker-gray;
 }

@@ -16,3 +16,4 @@ How much physics is needed to create the polarized image of M87<sup>*</sup>? We 
 ![ring-model-comparison](/images/PolarizedRing/ringComp.png)
 
 [Journal Link](https://iopscience.iop.org/article/10.3847/1538-4357/abf117)
+

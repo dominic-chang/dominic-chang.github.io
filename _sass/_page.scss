@@ -227,9 +227,10 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: $secondary-color;//(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
+  font-weight: bolder;
 
   p {
     margin: 0;
