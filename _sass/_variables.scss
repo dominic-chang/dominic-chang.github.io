@@ -13,6 +13,11 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
+@font-face {
+  font-family: 'DM Serif Display', serif;
+  src: url("'../assets/fonts/DMSerifDisplay-Regular.ttf");
+}
+$profile-font                : "DM Serif Display";
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
