@@ -5,12 +5,14 @@ permalink: /talks/
 author_profile: false
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+{% if site.talkmap_link == true %}
+
+<iframe src="/talkmap/map.html" style="display:block;width:20em;height:30em;border:none;margin:auto"></iframe>
+
+
+{% endif %}
+
