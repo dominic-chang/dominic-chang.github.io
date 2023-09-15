@@ -69,21 +69,16 @@ analytics:
 author:
   name             : "Dominic O Chang"
   avatar           : "bio-photo.png"
-  bio              : "Jamaican physicist from Kingston Jamaica who studies blackholes."
+  bio              : "Physicist from Kingston Jamaica who studies blackholes."
   location         : "Cambridge, MA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "dochang@g.harvard.edu"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "dchang10"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         : "https://www.linkedin.com/in/dominic-chang-9382a1b7/"
   orcid            : "https://orcid.org/0000-0001-9939-5257"
   twitter          : "domzchang"
   medium           : "domchang"
-  xing             :
-  youtube          :
-  wikipedia        :
 # Reading Files
 include:
   - .htaccess
