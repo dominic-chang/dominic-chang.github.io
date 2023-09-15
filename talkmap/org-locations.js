@@ -1,8 +1,23 @@
 var addressPoints = [
   [
+    "Worcester, MA, USA",
+    42.2625621,
+    -71.8018877
+  ],
+  [
+    "Upton, NY, USA",
+    40.869543,
+    -72.8867697
+  ],
+  [
     "Stanford, CA",
     37.427467,
     -122.1702445
+  ],
+  [
+    "Tuscon, AZ",
+    32.3090726,
+    -111.0827253
   ],
   [
     "Mona, Jamaica",
@@ -25,18 +40,13 @@ var addressPoints = [
     -74.0060152
   ],
   [
-    "Kingston Jamaica",
-    17.9712148,
-    -76.7928128
-  ],
-  [
-    "Cambridge Massachusetts",
+    "Cambridge, Massachusetts",
     42.3655767,
     -71.1040018
   ],
   [
-    "National Museum of Natural Science, Taichung, Taiwan",
-    24.15552,
-    120.66304
+    "Taichung, Taiwan",
+    24.163162,
+    120.6478282
   ]
 ];
