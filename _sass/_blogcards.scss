@@ -80,8 +80,7 @@
         display: inline-block;
         position: relative;
         &:after {
-          content: "\f061";
-          font-family: FontAwesome;
+          content: "➡️";
           margin-left: -10px;
           opacity: 0;
           vertical-align: middle;
