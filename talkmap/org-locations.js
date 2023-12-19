@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Worcester, MA, USA",
-    42.2625621,
-    -71.8018877
+    "Grinnell, IA, USA",
+    41.7430237,
+    -92.7239637
   ],
   [
     "Upton, NY, USA",
@@ -10,24 +10,24 @@ var addressPoints = [
     -72.8867697
   ],
   [
+    "Princeton, NJ",
+    40.3496953,
+    -74.6597376
+  ],
+  [
+    "Cambridge, Massachusetts",
+    42.3655767,
+    -71.1040018
+  ],
+  [
     "Stanford, CA",
     37.427467,
     -122.1702445
   ],
   [
-    "Tuscon, AZ",
-    32.3090726,
-    -111.0827253
-  ],
-  [
     "Mona, Jamaica",
     18.0087783,
     -76.7540823
-  ],
-  [
-    "Grinnell, IA, USA",
-    41.7430237,
-    -92.7239637
   ],
   [
     "Granada, Spain",
@@ -40,9 +40,19 @@ var addressPoints = [
     -74.0060152
   ],
   [
-    "Cambridge, Massachusetts",
-    42.3655767,
-    -71.1040018
+    "Tuscon, AZ",
+    32.3090726,
+    -111.0827253
+  ],
+  [
+    "Worcester, MA, USA",
+    42.2625621,
+    -71.8018877
+  ],
+  [
+    "Greenbelt, MD",
+    39.004607,
+    -76.8756838
   ],
   [
     "Taichung, Taiwan",
