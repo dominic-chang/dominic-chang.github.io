@@ -1,5 +1,11 @@
 _site/
 *.swp
-*/.DS_Store
+.DS_Store
 .vscode
 Gemfile.lock
+pyvenv.cfg
+lib
+bin
+include
+etc
+share
