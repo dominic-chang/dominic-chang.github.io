@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Dominic Chang"
+tagline                  : "Physicist, Data Scientist, and Software Engineer"
 title_separator          : "-"
 name                     : &name "Dominic Chang"
 description              : &description "My personal Portfolio"
@@ -209,6 +210,7 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 # Plugins
 plugins:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
