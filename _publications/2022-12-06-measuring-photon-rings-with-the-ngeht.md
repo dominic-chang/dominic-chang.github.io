@@ -9,9 +9,10 @@ paperurl: 'https://www.mdpi.com/2075-4434/10/6/111'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 author_profile: false
 ---
-
+## Question
 What constitutes a measurement of the photon ring?
 
+## Description
 Blackholes can act as lenses, and will form infinite images of objects when vieweved upon. 
 These images will often form multiple successive images, called photon rings, that will converge to a curve known as the critical curve.
 Plans to further increase the Event Horizon Telescipe's (EHT) resolution through additional baselines into the Next Generation Event Horizon Telescope (ngEHT) may make it possible to measure a photon ring.
