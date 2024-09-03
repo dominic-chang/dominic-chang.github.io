@@ -11,7 +11,7 @@ author_profile: false
 
 {% if site.talkmap_link == true %}
 
-<iframe src="/talkmap/map.html" style="display:block;width:20em;height:30em;border:none;margin:auto"></iframe>
+<iframe src="/talkmap/map.html" style="display:block;width:calc(100% - 50px);height:30em;border:none;margin:auto"></iframe>
 
 
 {% endif %}
