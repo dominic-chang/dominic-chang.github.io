@@ -16,6 +16,7 @@ Some topics and techniques I routinely use include strong field [gravitational l
 
 I studied black hole thermodynamics through their effects on quantum field theory in undergrad. 
 I did my undergrad thesis on a project where I used dimensional reduction techniques to caclulate thermodynamic quantities of near extramal [Kerr black holes](https://en.wikipedia.org/wiki/Kerr_metric).
+I then briefly worked on collider physics where I automated some of the pipeline used for metrology on the detectors that were to be installed in the [ATLAS](https://atlas.cern/) experiment during [CERN's long shutdown 3](https://lhc-commissioning.web.cern.ch/schedule/LHC-long-term.htm).
 
 I'm a polyglot programmer and have done projects in C/C++, openGL, webGL, javascript, matlab, labview, typescript, Java, python and most recently julia. 
 I like to learn about random things and am attracted to engaging conversations. In my spare time, I sometimes work on coding projects and make bad music demos. You can checkout some of my interactive physics projects in [*Projects*]({% link _pages/projects.md%}).
