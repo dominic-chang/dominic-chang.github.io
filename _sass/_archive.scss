@@ -90,6 +90,11 @@
    ========================================================================== */
 
 .list__item {
+  background-color: $lighter-gray;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }

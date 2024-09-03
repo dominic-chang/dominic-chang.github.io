@@ -69,8 +69,8 @@ analytics:
 # Site Author
 author:
   name             : "Dominic O Chang"
-  #avatar           : "bio-photo.png"
-  #bio              : "Physicist from Kingston Jamaica who studies blackholes."
+  avatar           : "profile_pics/DominicRN50.jpg"
+  bio              : "Physicist from Kingston, Jamaica who studies blackholes."
   location         : "Cambridge, MA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"

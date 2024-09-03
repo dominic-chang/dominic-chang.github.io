@@ -37,6 +37,11 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  background-color: $darker-gray;
+  padding-left: 1em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  color: #fff;
 
   & + .page__meta {
     margin-top: -0.5em;
