@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Black Hole Photogrammetry"
 collection: publications
-permalink: /publication/10.48550/arXiv.2405.04749
+permalink: /publication/10.48550/arXiv/2405/04749
 excerpt: 'We propose a simple, analytic dual-cone accretion model for horizon scale images of the cores of Low-Luminosity Active Galactic Nuclei (LLAGN), including those observed by the Event Horizon Telescope (EHT). Our underlying model is of synchrotron emission from an axisymmetric ...'
 date: 2024-05-08
 venue: 'The Astrophysical Journal (accepted)'

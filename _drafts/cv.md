@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interests
 ======
-Astrophysics, radio astronomy, blackhole phenomenology, quantum gravity, very long baseline Interferometry
+Astrophysics, radio astronomy, black hole phenomenology, quantum gravity, very long baseline Interferometry
 
 Education
 ======
