@@ -8,6 +8,7 @@ venue: 'Galaxies'
 paperurl: 'https://www.mdpi.com/2075-4434/10/6/111'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 author_profile: false
+image: /images/ngeht/ngehtPhotonRing.jpg
 ---
 ## Question
 What constitutes a measurement of the photon ring?
