@@ -8,6 +8,7 @@ venue: 'Astronomy&Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2024/01/aa47932-23/aa47932-23.html'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 author_profile: false
+image: /images/m87_2018.png
 ---
 ## Question
 What constitutes a measurement of the photon ring?

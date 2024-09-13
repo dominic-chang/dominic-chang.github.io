@@ -7,6 +7,7 @@ date: 2024-05-08
 venue: 'The Astrophysical Journal (accepted)'
 paperurl: 'https://arxiv.org/abs/2405.04749'
 author_profile: false
+image: /images/JuKeBOX.jpg
 ---
 ## Question
 What measurements be made from the black hole images of the EHT?
@@ -20,3 +21,5 @@ If such photogrammetry from a single image is successful, it could potentially b
 We show that it is possible to perform photogrammetry on black hole images by constructing a dual-cone emission model for Low Luminosity Active Galactic Nuclei (LLAGN). 
 We show that our model is an accurate and faithful representation of time-averaged GRMHD.
 We then fit our model to the 2017 EHT data of M87<sup>*</sup>, and produce measurement results that are consistent with the previous stellar dynamics measurements and large scale jet inclination measurements.
+
+![jukebox](/images/JuKeBOX.jpg)
