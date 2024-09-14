@@ -74,11 +74,16 @@
 
 
 .archive__item-excerpt {
-  margin-top: 0;
+  margin: 0;
   //font-size: $type-size-6;
-
+//
   & + p {
-    text-indent: 0;
+    text-indent: 0em;
+    margin:0em;
+  }
+  & + p + p {
+    text-indent: 0em;
+    margin:0em;
   }
 }
 
@@ -91,8 +96,6 @@
 }
 
 .archive__item-thumbnail {
-    display: inline-block;
-    vertical-align:middle;
     width:20%;
     //overflow: hidden;
     img {
@@ -100,8 +103,15 @@
     }
 }
 .archive__item-excerpt {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
   max-width: 79%;
+  
+}
+
+.archive__item-card {
+  display: flex;
+  align-items: center;
   
 }
 
