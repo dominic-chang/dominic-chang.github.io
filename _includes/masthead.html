@@ -10,10 +10,14 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
+              {% assign clickout = '_blank'  %}
+              {% assign clickout2 = 'noopener noreferrer'  %}
               {% else %}
+              {% assign clickout = '' %}
+              {% assign clickout2 = ''  %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a target="{{ clickout }}" rel="{{ clickout2 }}" href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
