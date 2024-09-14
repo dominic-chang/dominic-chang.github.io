@@ -6,9 +6,10 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Blog Posts"
     url:  https://medium.com/@domchang
 
-  - title: "Projects"
-    url: /projects/
 
