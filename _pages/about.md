@@ -15,7 +15,7 @@ I currently research black hole phenomenology.
 Some topics and techniques I routinely use include strong field [gravitational lensing](https://en.wikipedia.org/wiki/Gravitational_lens), the phenomenology of [exotic black hole space times](https://ui.adsabs.harvard.edu/abs/1972ApJ...178..347B/abstract), [Newman-Penrose Formalism](https://en.wikipedia.org/wiki/Newman%E2%80%93Penrose_formalism) and [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference). 
 
 I studied black hole thermodynamics through their effects on quantum field theory in undergrad. 
-I did my undergrad thesis on a project where I used dimensional reduction techniques to caclulate thermodynamic quantities of near extramal [Kerr black holes](https://en.wikipedia.org/wiki/Kerr_metric).
+I did my undergrad thesis on a project where I used dimensional reduction techniques to calculate thermodynamic quantities of near extremal [Kerr black holes](https://en.wikipedia.org/wiki/Kerr_metric).
 I then briefly worked on collider physics where I automated some of the pipeline used for metrology on the detectors that were to be installed in the [ATLAS](https://atlas.cern/) experiment during [CERN's long shutdown 3](https://lhc-commissioning.web.cern.ch/schedule/LHC-long-term.htm).
 
 I'm a polyglot programmer and have done projects in C/C++, openGL, webGL, javascript, matlab, labview, typescript, Java, python and most recently julia. 
