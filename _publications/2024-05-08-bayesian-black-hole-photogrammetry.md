@@ -5,7 +5,7 @@ permalink: /publication/10.48550/arXiv/2405/04749
 excerpt: 'We propose a simple, analytic dual-cone accretion model for horizon scale images of the cores of Low-Luminosity Active Galactic Nuclei (LLAGN), including those observed by the Event Horizon Telescope (EHT). Our underlying model is of synchrotron emission from an axisymmetric ...'
 date: 2024-05-08
 venue: 'The Astrophysical Journal (accepted)'
-paperurl: 'https://arxiv.org/abs/2405.04749'
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ad6b28'
 author_profile: false
 image: /images/JuKeBOX.jpg
 ---
