@@ -15,19 +15,24 @@ var addressPoints = [
     -72.8867697
   ],
   [
-    "Princeton, NJ",
-    40.3496953,
-    -74.6597376
-  ],
-  [
     "Cambridge, Massachusetts",
     42.3656347,
     -71.1040018
   ],
   [
+    "Princeton, NJ",
+    40.3496953,
+    -74.6597376
+  ],
+  [
+    "Pittsburgh, Pensylvania",
+    40.4416941,
+    -79.9900861
+  ],
+  [
     "Stanford, CA",
-    37.426540700000004,
-    -122.17030545534064
+    37.4265407,
+    -122.1703055
   ],
   [
     "Mona, Jamaica",
@@ -41,8 +46,8 @@ var addressPoints = [
   ],
   [
     "New Orleans, LA",
-    29.9759983,
-    -90.0782127
+    29.9559145,
+    -90.0730259
   ],
   [
     "New York, New York",
@@ -51,18 +56,28 @@ var addressPoints = [
   ],
   [
     "Cape Town, South Africa",
-    -33.928992,
-    18.417396
+    -33.9288301,
+    18.4172197
   ],
   [
     "Tuscon, AZ",
-    32.3090726,
-    -111.0827253
+    32.1975767,
+    -111.0808306
   ],
   [
     "Nashville, TN",
     36.1622767,
     -86.7742984
+  ],
+  [
+    "National Harbor, Maryland",
+    38.783342,
+    -77.0148285
+  ],
+  [
+    "Somerville, Massachusetts",
+    42.3875968,
+    -71.0994968
   ],
   [
     "Worcester, MA, USA",
